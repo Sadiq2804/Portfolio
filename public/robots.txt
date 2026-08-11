@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+Disallow: /_next/
+Disallow: /.next/
+
+Sitemap: https://sadiq.ai/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
