@@ -1,9 +1,6 @@
 {
   "buildCommand": "next build",
   "outputDirectory": ".next",
-  "env": {
-    "NEXT_PUBLIC_DOMAIN": "@NEXT_PUBLIC_DOMAIN"
-  },
   "headers": [
     {
       "source": "/(.*)",
